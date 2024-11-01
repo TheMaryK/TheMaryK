@@ -15,8 +15,8 @@
 - Matplotlib
 - Seaborn
 - Textblob
-- Gemini AI for Sentiment Analysis
-- ![matplotlib](https://github.com/user-attachments/assets/0016ab82-bbfa-4b56-a9be-28278d7231de)
+- Gemini AI for Sentiment Analysis![excel logo](https://github.com/user-attachments/assets/d74fc322-0447-49ef-88ae-7016891bb565)
+
 
 <!---
 TheMaryK/TheMaryK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
