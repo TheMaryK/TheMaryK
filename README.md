@@ -15,7 +15,9 @@
 - Matplotlib
 - Seaborn
 - Textblob
-- Gemini AI for Sentiment Analysis![excel logo](https://github.com/user-attachments/assets/d74fc322-0447-49ef-88ae-7016891bb565)
+- Gemini AI for Sentiment Analysis
+- ![excel logo](https://github.com/user-attachments/assets/d74fc322-0447-49ef-88ae-7016891bb565) ![python logo](https://github.com/user-attachments/assets/ae80d828-97e4-4768-abe2-eae44fd3f0d3)
+
 
 
 <!---
