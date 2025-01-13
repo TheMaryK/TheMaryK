@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mary IyanuOluwa Komolafe
 - 👀 I’m a data analyst who is not just interested in the numbers and trends alone but interested in understanding the human experiences and emotions behind those numbers.
-- 🌱 I’m currently learning Power BI.
-- 💞️ I’m looking to collaborate on data analysis projects, volunteer or otherwise.
+- 🌱 I never stopped learning.
+- 💞️ I’m looking to work and collaborate on data analysis projects, volunteer or otherwise.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/komolafe-mary-iyanuoluwa)
 
 
