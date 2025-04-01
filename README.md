@@ -1,20 +1,16 @@
 👋 Hi, I'm Mary!
-
-🙂 I'm a Data Analyst passionate about uncovering the stories hidden in data and helping brands better understand their customers.
+- 🙂 I'm a Data Analyst passionate about uncovering the stories hidden in data and helping brands better understand their customers.
 
 🔍 What I Do
 
-📊 Data Analysis & Visualization – Turning raw data into actionable insights.
-
-🤖 Consumer Insights – Understanding trends, behaviors, and preferences.
-
-🛠 Continuous Learning – Always exploring new tools and techniques.
+- 📊 Data Analysis & Visualization – Turning raw data into actionable insights.
+- 🤖 Consumer Insights – Understanding trends, behaviors, and preferences.
+- 🛠 Continuous Learning – Always exploring new tools and techniques.
 
 🚀 Let's Connect!
 
-💡 Open to collaborations, projects, and volunteer opportunities in data analysis.
-
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/komolafe-mary-iyanuoluwa)
+- 💡 Open to collaborations, projects, and volunteer opportunities in data analysis.
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/komolafe-mary-iyanuoluwa)
 
 
 
