@@ -1,5 +1,5 @@
 👋 Hi, I'm Mary!
-- 🙂 I'm a Data Analyst passionate about uncovering the stories hidden in data and helping brands better understand their customers.
+- 🙂 I'm a Data Analyst passionate about turning data into meaningful insights that drive business growth, enhance customer experiences, and uncover market trends.
 
 🔍 What I Do
 
@@ -10,7 +10,7 @@
 🚀 Let's Connect!
 
 - 💡 Open to collaborations, projects, and volunteer opportunities in data analysis.
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/komolafe-mary-iyanuoluwa)
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/komolafe-mary)
 
 
 
